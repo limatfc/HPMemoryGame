@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HPMemoryGame/static/css/main.d20c29f4.chunk.css",
+    "main.css": "/HPMemoryGame/static/css/main.44858548.chunk.css",
     "main.js": "/HPMemoryGame/static/js/main.6cc66bb2.chunk.js",
     "main.js.map": "/HPMemoryGame/static/js/main.6cc66bb2.chunk.js.map",
     "runtime-main.js": "/HPMemoryGame/static/js/runtime-main.e7e610bc.js",
@@ -10,7 +10,7 @@
     "static/js/3.816fc9fb.chunk.js": "/HPMemoryGame/static/js/3.816fc9fb.chunk.js",
     "static/js/3.816fc9fb.chunk.js.map": "/HPMemoryGame/static/js/3.816fc9fb.chunk.js.map",
     "index.html": "/HPMemoryGame/index.html",
-    "static/css/main.d20c29f4.chunk.css.map": "/HPMemoryGame/static/css/main.d20c29f4.chunk.css.map",
+    "static/css/main.44858548.chunk.css.map": "/HPMemoryGame/static/css/main.44858548.chunk.css.map",
     "static/js/2.0c71a75f.chunk.js.LICENSE.txt": "/HPMemoryGame/static/js/2.0c71a75f.chunk.js.LICENSE.txt",
     "static/media/card.14cb4cc4.jpeg": "/HPMemoryGame/static/media/card.14cb4cc4.jpeg",
     "static/media/initial.a9216f81.jpg": "/HPMemoryGame/static/media/initial.a9216f81.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e7e610bc.js",
     "static/js/2.0c71a75f.chunk.js",
-    "static/css/main.d20c29f4.chunk.css",
+    "static/css/main.44858548.chunk.css",
     "static/js/main.6cc66bb2.chunk.js"
   ]
 }
