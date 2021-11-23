@@ -1,0 +1,29 @@
+#complete {
+  text-align: center;
+  background: rgb(28, 14, 5);
+  background: linear-gradient(
+    0deg,
+    rgba(28, 14, 5, 1) 0%,
+    rgba(142, 110, 31, 1) 100%
+  );
+  color: beige;
+}
+
+#body {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-color: black;
+  border-style: solid;
+  border-width: 10px;
+  gap: 20px 20px;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
